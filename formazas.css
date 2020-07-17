@@ -1,0 +1,65 @@
+ 
+#cvKep {
+     height: 250px;
+  }
+  #alapadatok {
+   text-align: right;
+   font-family: sans-serif, Arial, Helvetica;
+  }
+  h1 {
+      color: rgb(70, 70, 70);
+      text-align:left;
+      font-family: sans-serif, Arial, Helvetica;
+      text-shadow: grey;
+  }
+
+  h2 {
+      color: rgb(70, 70, 70);
+      font-family: sans-serif, Arial, Helvetica;
+      text-align: left;
+  }
+
+  h3 {
+      color: rgb(70, 70, 70);
+      font-family: sans-serif, Arial, Helvetica;
+  }
+
+  h4 {
+      color: rgb(70, 70, 70);
+      font-family: sans-serif, Arial, Helvetica;
+  }
+  h5 {
+      color: rgb(70, 70, 70);
+      font-family: sans-serif, Arial, Helvetica;
+      font-weight: lighter;
+      font-size: 16px;
+      
+  }
+  h6 {
+      color: rgb(70, 70, 70);
+      font-family: sans-serif, Arial, Helvetica;
+  }
+
+  table {
+
+
+    padding: 40px;
+    margin: 40px;
+    background-color: rgb(212, 232, 245);
+    color: rgb(70, 70, 70);
+font-family: sans-serif, Arial, Helvetica;
+width: 80%;
+  }
+
+body {
+    background-color: aliceblue;
+}
+
+#keszsegek {
+    box-shadow: grey;
+
+}
+
+#keszsegFok {
+    text-align: left;
+}
